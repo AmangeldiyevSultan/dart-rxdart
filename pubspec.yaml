@@ -1,15 +1,13 @@
 name: dart_rxdart_streams
-description: A sample command-line application.
+description: RxDart practicing.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/AmangeldiyevSultan
 
 environment:
   sdk: ^3.0.6
 
-# Add regular dependencies here.
 dependencies:
   rxdart: ^0.27.7
-  # path: ^1.8.0
 
 dev_dependencies:
   lints: ^2.0.0
